@@ -1,7 +1,7 @@
 # Form + EmailJs Service
 <img src="./src/thumb/strava-email.png" style="margin-top:20px">
 
-### Simple form to aplication using EmailJS service
+#### Creating an email form for applications is easy using EmailJS and Tailwind, ensuring compatibility across all devices.
 
 ## Libs
 - Emaijs
